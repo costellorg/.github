@@ -1,2 +1,3 @@
-# .github
-The README for costellorg
+# README 📖
+
+The README for [costellorg](https://github.com/costellorg).
